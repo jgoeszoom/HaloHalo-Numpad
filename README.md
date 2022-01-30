@@ -24,4 +24,6 @@ will be chosen later. There should also be space for a small OLED/LCD screen.
 
 ## Render
 
+![Render of PCB](/imgs/HaloHalo_Numpadv2.png)
+
 ## Bill-of-Materials
