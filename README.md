@@ -20,6 +20,8 @@ will be chosen later. There should also be space for a small OLED/LCD screen.
 
 ## PCB
 
+![PCB of Numpad] (/imgs/Numpad_Brd.png)
+
 ## Render
 
 ## Bill-of-Materials
