@@ -27,3 +27,13 @@ will be chosen later. There should also be space for a small OLED/LCD screen.
 ![Render of PCB](/imgs/HaloHalo_Numpadv2.png)
 
 ## Bill-of-Materials
+
+| References | Value | Footprint | Quantity |
+| ---------- | ----- | --------- | -------- |
+| C1-C20     |       | 0805      | 20       |
+| R1-R7, R9  | 4.7k  | Axial DIN0204 | 8    |
+| R8         | 470   | Axial DIN0204 | 1    |
+| D1-D20     | N/A   | SK6812 Mini | 20     | 
+| D21-D40    |       | SOD-123F  | 20       |
+| SW1-SW20   | N/A   | Cherry MX | 20       |
+| SW21-SW23  | Rotary| Alps EC11E| 3        |
