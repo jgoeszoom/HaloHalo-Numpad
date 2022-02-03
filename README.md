@@ -10,8 +10,9 @@ At the moment, the board is still a WIP. The final board will include headers to
 will be chosen later. There should also be space for a small OLED/LCD screen. 
 
 ### To-do: 
-	- [] Choose a microcontroller to use
-	- [] Add headers for microcontroller chosen 
+	- [X] Choose a microcontroller to use
+	- [X] Add headers for microcontroller chosen 
+	- [] Update corresponding PDFs and images
 	- [] Add space on PCB for the small screen
 
 ## Schematic
