@@ -1,4 +1,4 @@
-19978695211135435
+19978695716088106
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -11745,13 +11745,6 @@ connector Hirose DF12 vertical
 0
 80
 40
-Connector_Hirose
-Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical
-Hirose DF12C SMD, DF12C3.0-50DS-0.5V, 50 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
-connector Hirose DF12 vertical
-0
-100
-50
 Connector_Hirose
 Hirose_DF12_DF12C3.0-60DS-0.5V_2x30_P0.50mm_Vertical
 Hirose DF12C SMD, DF12C3.0-60DS-0.5V, 60 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
