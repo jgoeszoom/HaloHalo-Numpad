@@ -3,3 +3,6 @@ HaloHalo_Numpadv2-backups/
 gerbers/
 *.svg
 *.zip
+
+# Exceptions:
+!gerbers.zip
